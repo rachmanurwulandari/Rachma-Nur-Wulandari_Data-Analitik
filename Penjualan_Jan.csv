@@ -1,0 +1,21 @@
+Tanggal,Produk_ID,Nama_Produk,Kategori,Jumlah_Terjual,Harga_Satuan
+2023-01-01,001,Produk_A,Elektronik,10,50000
+2023-01-01,002,Produk_B,Pakaian,5,20000
+2023-01-02,001,Produk_A,Elektronik,8,50000
+2023-01-02,003,Produk_C,Alat Tulis,15,10000
+2023-01-03,002,Produk_B,Pakaian,7,20000
+2023-01-03,004,Produk_D,Pakaian,4,25000
+2023-01-04,001,Produk_A,Elektronik,6,50000
+2023-01-04,002,Produk_B,Pakaian,3,20000
+2023-01-05,003,Produk_C,Alat Tulis,10,10000
+2023-01-05,005,Produk_E,Elektronik,2,60000
+2023-01-06,001,Produk_A,Elektronik,9,50000
+2023-01-06,002,Produk_B,Pakaian,8,20000
+2023-01-07,003,Produk_C,Alat Tulis,12,10000
+2023-01-07,004,Produk_D,Pakaian,5,25000
+2023-01-08,001,Produk_A,Elektronik,11,50000
+2023-01-08,002,Produk_B,Pakaian,9,20000
+2023-01-09,003,Produk_C,Alat Tulis,14,10000
+2023-01-09,005,Produk_E,Elektronik,3,60000
+2023-01-10,001,Produk_A,Elektronik,7,50000
+2023-01-10,002,Produk_B,Pakaian,6,20000
